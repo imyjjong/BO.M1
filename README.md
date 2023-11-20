@@ -1,3 +1,3 @@
-# BO.M1-Tekstbased-Applicatie
+# BO.M1
 
 Tekstbased-Applicatie | Python
